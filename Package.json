@@ -1,0 +1,13 @@
+{
+  "name": "chamada-com-musica",
+  "version": "1.0.0",
+  "description": "Chamada de voz/vídeo em sala com música sincronizada, tipo Discord + Jockie Music",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
